@@ -5,6 +5,8 @@ I recoded the program in Javascript (using HTML 5 Canvas), GPL (a Professor deve
 
 The Javascript version uses a logarithmic curve while GPL implements a tapering cosine.
 
+Javascript link: https://cdn.rawgit.com/AlexElson/Eruption_Function/master/JsEruption.html
+
 ![Alt text](/Screenshots/eruption_gpl.png?raw=true "Cover")
 
 
